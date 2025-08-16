@@ -9,4 +9,4 @@ SI=$((P * R * T / 100))
 echo "Simple Interest = $SI"
 
 
-
+chmod +x simple-interest.sh
